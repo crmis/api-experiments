@@ -1,6 +1,9 @@
-The MIT License (MIT)
+###### We use the Github License generator. But if you're unsure check out: http://choosealicense.com/
 
-Copyright (c) 2015 Cox | Rees | Mitchell
+
+# The MIT License (MIT)
+
+### Copyright (c) 2015 Tom Cox
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,4 +22,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
